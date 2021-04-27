@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub page
 
-You can use the [editor on GitHub](https://github.com/MWielebnowski/MWielebnowski.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I made this page to show off some of my projects as part of my portfolio, unfotunately I decided to document them back in 2019, so most of them are lost in the void of time.
 
 ### Markdown
 
